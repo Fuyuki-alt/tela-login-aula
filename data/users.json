@@ -13,5 +13,10 @@
         "name": "Lucas",
         "email": "Lucas@senai.com.br",
         "password": "lucas"
+    },
+    {
+        "name": "AGENTEdoCAUS96",
+        "email": "v1t1n@senai.com.br",
+        "password": "viktor"
     }
 ]
